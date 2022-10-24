@@ -1,0 +1,3 @@
+# Ocean soulmate test
+**Laravel, MariaDB, Tailwind**<br />
+Laravel application that uses the Breeze package for authentication. The aim of this project is to create awareness of ocean conservation. A user can discover his/her/them soulmate among threatened and endangered ocean species by answering eight questions about their lifestyle preferences. After submitting the last question a user’s preferences are compared with characteristics of 16 ocean species, and the best match is determined. The result is presented to the user along with information about the reasons for its endangered status.
